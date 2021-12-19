@@ -5,10 +5,20 @@ This algorithm is based on [Adaptative Thresholding using the integral image](ht
 The goal is to create a binary representation of the image, classifying each pixel into one of two categories, such as "black" or "white". This is a common task in many image processing applications, and some computer graphics applications. 
 
 
-## Installation
+## Prerequisites
+* [Python3](https://www.python.org/)
+* [opencv-python](https://pypi.python.org/pypi/opencv-python)
+* [numpy](https://scipy.org/install.html)
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install 
+## How to use
+Make sure python3 and pip is installed. Then, install cv2 and numpy.
 
+```bash
+#install opencv-python
+pip install cv2
+#install numpy
+pip install numpy
+```
 
 ## Usage
 
