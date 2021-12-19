@@ -23,8 +23,6 @@ pip install numpy
 ## Usage
 
 ```python
-import foobar
-import os
 import numpy as np
 import cv2
 import argparse
